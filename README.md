@@ -5,3 +5,7 @@ install node packages
 ```
 npm install -g node-modules
 ```
+After installing node_modules run the application on localHost:3000
+```
+node server.js
+```
